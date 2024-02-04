@@ -1,0 +1,39 @@
+*{
+    margin: 0 ;
+    padding: o;
+    box-sizing: border-box;
+    /* background-color: red; */
+}
+.main__container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    width: 80%;
+    margin: 0 auto;
+}
+.first__two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em; 
+}
+.last__two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em; 
+}
+.submain__container{
+    width: 50%;
+}
+.kiera{
+    width: 30%;
+}
+.Daniel{
+    border: 1px solid white;
+    background-color: hsl(263, 55%, 52%);
+padding: 2em 1em;
+color: white;
+border-radius: 5px;
+}
